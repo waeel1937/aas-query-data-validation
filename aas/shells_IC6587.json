@@ -1,0 +1,31 @@
+{
+  "assetInformation": {
+    "assetKind": "Instance",
+    "globalAssetId": "urn:org.eclipse.basyx:assets:IC6587:1.0.0"
+  },
+  "submodels": [
+    {
+      "keys": [
+        {
+          "type": "Submodel",
+          "value": "urn:org.eclipse.basyx:submodels:IC6587_TechnicalData:1.0.0"
+        }
+      ],
+      "type": "ModelReference"
+    }
+  ],
+  "modelType": "AssetAdministrationShell",
+  "id": "urn:org.eclipse.basyx:shells:IC6587_AAS:1.0.0",
+  "idShort": "IC6587_AAS",
+  "description": [
+    {
+      "language": "en",
+      "text": "Asset Administration Shell for IC6587 multi-parameter measurement device"
+    },
+    {
+      "language": "de",
+      "text": "Verwaltungsschale für das IC6587 Multiparameter-Messgerät"
+    }
+  ],
+  "displayName": []
+}

@@ -1,0 +1,148 @@
+{
+  "submodelElements": [
+    {
+      "idShort": "Model",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "IC6587"
+    },
+    {
+      "idShort": "Inputs",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "2 × ISE, pH or Redox, 1 × Conductivity (2-wire or 4-wire), Pt100 or Pt1000"
+    },
+    {
+      "idShort": "ISERange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.01-1000 mg/l"
+    },
+    {
+      "idShort": "pHRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.00-14.00"
+    },
+    {
+      "idShort": "RedoxRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "-2000-2000 mV"
+    },
+    {
+      "idShort": "ConductivityRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.2 µS/cm-2000 mS/cm"
+    },
+    {
+      "idShort": "TemperatureRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.0-100.0 °C"
+    },
+    {
+      "idShort": "Accuracy",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.2%"
+    },
+    {
+      "idShort": "Repeatability",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.1%"
+    },
+    {
+      "idShort": "SignalOutputs",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "2 × 4-20 mA or 0-20 mA"
+    },
+    {
+      "idShort": "RelayOutputs",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Alarm relay with 0-100 s delay, 2 relays with On/Off, PID, PFM, PWM"
+    },
+    {
+      "idShort": "DigitalInterfaces",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "RS485, with ASCII or Modbus RTU"
+    },
+    {
+      "idShort": "AmbientTemperature",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "-10-60 °C"
+    },
+    {
+      "idShort": "PowerSupply",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "85-264 V AC, 50/60 Hz; 9-36 V DC; 12-24 V AC"
+    },
+    {
+      "idShort": "ProtectionClass",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "IP65"
+    },
+    {
+      "idShort": "HousingMaterial",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "ABS"
+    },
+    {
+      "idShort": "Dimensions",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "256 mm × 230 mm × 89 mm"
+    },
+    {
+      "idShort": "Weight",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "1.4 kg"
+    }
+  ],
+  "id": "urn:org.eclipse.basyx:submodels:IC6587_TechnicalData:1.0.0",
+  "qualifiers": [],
+  "embeddedDataSpecifications": [],
+  "modelType": "Submodel",
+  "supplementalSemanticIds": [],
+  "kind": "Instance",
+  "idShort": "IC6587_TechnicalData",
+  "description": [
+    {
+      "language": "en",
+      "text": "Technical specifications for IC6587 multi-parameter measurement device"
+    },
+    {
+      "language": "de",
+      "text": "Technische Spezifikationen für das IC6587 Multiparameter-Messgerät"
+    }
+  ],
+  "displayName": []
+}

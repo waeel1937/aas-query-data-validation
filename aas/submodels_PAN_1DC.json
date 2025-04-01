@@ -1,0 +1,113 @@
+{
+  "submodelElements": [
+    {
+      "idShort": "Model",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "PAN-1DC"
+    },
+    {
+      "idShort": "MeasurementScale",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Brix, with Offset Function"
+    },
+    {
+      "idShort": "MeasurementRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.0-42.0% Brix"
+    },
+    {
+      "idShort": "MeasurementAccuracy",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "±0.2% Brix"
+    },
+    {
+      "idShort": "Resolution",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.1% Brix"
+    },
+    {
+      "idShort": "MediumTemperature",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "10-99 °C"
+    },
+    {
+      "idShort": "AutomaticTemperatureCompensation",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "10-95 °C"
+    },
+    {
+      "idShort": "AmbientTemperature",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "10-45 °C"
+    },
+    {
+      "idShort": "Output",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "RS232"
+    },
+    {
+      "idShort": "MediaContactParts",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Prism: Sapphire, Frame: 1.4404 Steel (316L)"
+    },
+    {
+      "idShort": "ProtectionClass",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "IP67 (device), IP65 (display)"
+    },
+    {
+      "idShort": "Dimensions",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Length 30, 40 or 60 cm, custom lengths up to 120 cm on request"
+    },
+    {
+      "idShort": "Weight",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "680-780 g, depending on length"
+    }
+  ],
+  "id": "urn:org.eclipse.basyx:submodels:PAN-1DC_TechnicalData:1.0.0",
+  "qualifiers": [],
+  "embeddedDataSpecifications": [],
+  "modelType": "Submodel",
+  "supplementalSemanticIds": [],
+  "kind": "Instance",
+  "idShort": "PAN-1DC_TechnicalData",
+  "description": [
+    {
+      "language": "en",
+      "text": "Technical specifications for PAN-1DC Brix refractometer"
+    },
+    {
+      "language": "de",
+      "text": "Technische Spezifikationen für das PAN-1DC Brix-Refraktometer"
+    }
+  ],
+  "displayName": []
+}

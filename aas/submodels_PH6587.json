@@ -1,0 +1,148 @@
+{
+  "submodelElements": [
+    {
+      "idShort": "Model",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "PH6587"
+    },
+    {
+      "idShort": "Inputs",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "pH-Electrode, Integrated Pt 100 or Pt 1000, Redox-Electrode"
+    },
+    {
+      "idShort": "pHRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.00-14.00"
+    },
+    {
+      "idShort": "RedoxRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "-2000-2000 mV"
+    },
+    {
+      "idShort": "TemperatureRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "-10.0-110.0 °C"
+    },
+    {
+      "idShort": "Resolution_pH",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.01 pH"
+    },
+    {
+      "idShort": "Resolution_Redox",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "1 mV"
+    },
+    {
+      "idShort": "Resolution_Temperature",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.1 °C"
+    },
+    {
+      "idShort": "Accuracy",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.2%"
+    },
+    {
+      "idShort": "Repeatability",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0.1%"
+    },
+    {
+      "idShort": "SignalOutputs",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "2 × 4-20 mA or 0-20 mA"
+    },
+    {
+      "idShort": "RelayOutputs",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Alarm relay with 0-100 s delay, 2 relays with On/Off, PID, PFM, PWM"
+    },
+    {
+      "idShort": "AmbientTemperature",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "-10-60 °C"
+    },
+    {
+      "idShort": "PowerSupply",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "85-264 V AC, 50/60 Hz; 9-36 V DC; 12-24 V AC"
+    },
+    {
+      "idShort": "ProtectionClass",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "IP65"
+    },
+    {
+      "idShort": "HousingMaterial",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "ABS"
+    },
+    {
+      "idShort": "Dimensions",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "256 mm × 230 mm × 89 mm"
+    },
+    {
+      "idShort": "Weight",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "1.4 kg"
+    }
+  ],
+  "id": "urn:org.eclipse.basyx:submodels:PH6587_TechnicalData:1.0.0",
+  "qualifiers": [],
+  "embeddedDataSpecifications": [],
+  "modelType": "Submodel",
+  "supplementalSemanticIds": [],
+  "kind": "Instance",
+  "idShort": "PH6587_TechnicalData",
+  "description": [
+    {
+      "language": "en",
+      "text": "Technical specifications for PH6587 pH and Redox measurement device"
+    },
+    {
+      "language": "de",
+      "text": "Technische Spezifikationen für das PH6587 pH- und Redox-Messgerät"
+    }
+  ],
+  "displayName": []
+}

@@ -1,0 +1,31 @@
+{
+  "assetInformation": {
+    "assetKind": "Instance",
+    "globalAssetId": "urn:org.eclipse.basyx:assets:PH6587:1.0.0"
+  },
+  "submodels": [
+    {
+      "keys": [
+        {
+          "type": "Submodel",
+          "value": "urn:org.eclipse.basyx:submodels:PH6587_TechnicalData:1.0.0"
+        }
+      ],
+      "type": "ModelReference"
+    }
+  ],
+  "modelType": "AssetAdministrationShell",
+  "id": "urn:org.eclipse.basyx:shells:PH6587_AAS:1.0.0",
+  "idShort": "PH6587_AAS",
+  "description": [
+    {
+      "language": "en",
+      "text": "Asset Administration Shell for PH6587 pH and Redox measurement device"
+    },
+    {
+      "language": "de",
+      "text": "Verwaltungsschale für das PH6587 pH- und Redox-Messgerät"
+    }
+  ],
+  "displayName": []
+}

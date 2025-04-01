@@ -1,0 +1,31 @@
+{
+  "assetInformation": {
+    "assetKind": "Instance",
+    "globalAssetId": "urn:org.eclipse.basyx:assets:PAN-1DC:1.0.0"
+  },
+  "submodels": [
+    {
+      "keys": [
+        {
+          "type": "Submodel",
+          "value": "urn:org.eclipse.basyx:submodels:PAN-1DC_TechnicalData:1.0.0"
+        }
+      ],
+      "type": "ModelReference"
+    }
+  ],
+  "modelType": "AssetAdministrationShell",
+  "id": "urn:org.eclipse.basyx:shells:PAN-1DC_AAS:1.0.0",
+  "idShort": "PAN-1DC_AAS",
+  "description": [
+    {
+      "language": "en",
+      "text": "Asset Administration Shell for PAN-1DC Brix refractometer"
+    },
+    {
+      "language": "de",
+      "text": "Verwaltungsschale für das PAN-1DC Brix-Refraktometer"
+    }
+  ],
+  "displayName": []
+}
