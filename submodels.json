@@ -1,0 +1,106 @@
+{
+  "submodelElements": [
+    {
+      "idShort": "SerialNumber",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "XYZ123"
+    },
+    {
+      "idShort": "Model",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "pH 722 Z1-Gel"
+    },
+    {
+      "idShort": "AssetID",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "GIMAT_pH722Z1_XYZ123"
+    },
+    {
+      "idShort": "Manufacturer",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "GIMAT"
+    },
+    {
+      "idShort": "pHRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0-14"
+    },
+    {
+      "idShort": "ElectrolyteType",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Gel"
+    },
+    {
+      "idShort": "TemperatureRange",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "0-80°C"
+    },
+    {
+      "idShort": "CurrentpH",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "float",
+      "value": "6.8"
+    },
+    {
+      "idShort": "CalibrationDate",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "2025-03-01"
+    },
+    {
+      "idShort": "ConnectorType",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "S7"
+    },
+    {
+      "idShort": "Material",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Glass"
+    },
+    {
+      "idShort": "OperatingVoltage",
+      "kind": "Instance",
+      "modelType": "Property",
+      "valueType": "string",
+      "value": "Not applicable"
+    }
+  ],
+  "id": "urn:org.eclipse.basyx:submodels:GIMAT_Identification:1.0.0",
+  "qualifiers": [],
+  "embeddedDataSpecifications": [],
+  "modelType": "Submodel",
+  "supplementalSemanticIds": [],
+  "kind": "Instance",
+  "idShort": "GIMAT_Identification",
+  "description": [
+    {
+      "language": "en",
+      "text": "Comprehensive identification and technical data for GIMAT pH 722 Z1-Gel pH Electrode"
+    },
+    {
+      "language": "de",
+      "text": "Umfassende Identifikations- und technische Daten für die GIMAT pH 722 Z1-Gel pH-Elektrode"
+    }
+  ],
+  "displayName": []
+}

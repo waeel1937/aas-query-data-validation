@@ -1,0 +1,49 @@
+{
+  "assetInformation": {
+    "assetKind": "Instance",
+    "globalAssetId": "urn:org.eclipse.basyx:assets:GIMAT_pH722Z1:1.0.0"
+  },
+  "submodels": [
+    {
+      "keys": [
+        {
+          "type": "Submodel",
+          "value": "urn:org.eclipse.basyx:submodels:GIMAT_Identification:1.0.0"
+        }
+      ],
+      "type": "ModelReference",
+      "submodel": {
+        "submodelElements": [
+          {"idShort": "SerialNumber", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "XYZ123"},
+          {"idShort": "Model", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "pH 722 Z1-Gel"},
+          {"idShort": "AssetID", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "GIMAT_pH722Z1_XYZ123"},
+          {"idShort": "Manufacturer", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "GIMAT"},
+          {"idShort": "pHRange", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "0-14"},
+          {"idShort": "ElectrolyteType", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "Gel"},
+          {"idShort": "TemperatureRange", "kind": "Instance", "modelType": "Property", "valueType": "string", "value": "0-80°C"},
+          {"idShort": "CurrentpH", "kind": "Instance", "modelType": "Property", "valueType": "float", "value": "6.8"}
+        ],
+        "id": "urn:org.eclipse.basyx:submodels:GIMAT_Identification:1.0.0",
+        "qualifiers": [],
+        "embeddedDataSpecifications": [],
+        "modelType": "Submodel",
+        "supplementalSemanticIds": [],
+        "kind": "Instance",
+        "idShort": "GIMAT_Identification",
+        "description": [
+          {"language": "en", "text": "Comprehensive identification and technical data for GIMAT pH 722 Z1-Gel pH Electrode"},
+          {"language": "de", "text": "Umfassende Identifikations- und technische Daten für die GIMAT pH 722 Z1-Gel pH-Elektrode"}
+        ],
+        "displayName": []
+      }
+    }
+  ],
+  "modelType": "AssetAdministrationShell",
+  "id": "urn:org.eclipse.basyx:shells:GIMAT_pH722Z1_AAS:1.0.0",
+  "idShort": "GIMAT_pH722Z1_AAS",
+  "description": [
+    {"language": "en", "text": "Asset Administration Shell for GIMAT pH 722 Z1-Gel pH Electrode"},
+    {"language": "de", "text": "Verwaltungsschale für die GIMAT pH 722 Z1-Gel pH-Elektrode"}
+  ],
+  "displayName": []
+}
